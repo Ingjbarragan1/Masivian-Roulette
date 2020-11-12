@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Masivian.Services.Roulette.Domain\Masivian.Services.Roulette.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
